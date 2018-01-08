@@ -10,7 +10,7 @@ Here are the PageRank results for different initializations.
 
 * Iterations : 35           
 
-* Result (ASC order):
+* Result 10 HIGHEST(ASC order):
 
 PageRank | Node Id
 ------------ | -------------
@@ -33,7 +33,7 @@ PageRank | Node Id
 * Iterations : 100
 
 
-* Result (ASC order)
+* Result 10 HIGHEST (ASC order)
 
 PageRank | Node Id
 ------------ | -------------
